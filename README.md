@@ -8,7 +8,7 @@ Aplicação que consome a API do IBGE, o app deve pedir o nome e data de nascime
 
 **Objetivo**
 
-Fazer intergação com API do IBGE para testes com Reac Native
+Fazer intergação com API do IBGE para testes com React Native
 
 **Justificativa**
 
